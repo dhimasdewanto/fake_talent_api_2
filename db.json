@@ -1,0 +1,31 @@
+{
+    "modules": [
+        {
+            "id": 1,
+            "name": "Pembelajaran Pertama",
+            "link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+            "type": "Video Learning",
+            "isDownloadable": true,
+            "points": 50,
+            "duration": 120
+        },
+        {
+            "id": 2,
+            "name": "Perkenalan menggunakan PDF",
+            "link": "http://www.africau.edu/images/default/sample.pdf",
+            "type": "Journal Game",
+            "isDownloadable": true,
+            "points": 5,
+            "duration": 120
+        },
+        {
+            "id": 3,
+            "name": "Pendengaran melalui Podcast",
+            "link": "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3",
+            "type": "Podcast",
+            "isDownloadable": true,
+            "points": 12,
+            "duration": 120
+        }
+    ]
+}
