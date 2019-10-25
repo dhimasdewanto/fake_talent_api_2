@@ -60,9 +60,9 @@
         },
         {
             "id": 3,
-            "title": "Title",
-            "body": "body",
-            "notes": "a notes",
+            "title": "Coaching Request: Sebuah Topic",
+            "body": "Hai seorang coach, saya manusia dari posisi pengangguran. Apakah anda bersedia untuk mengajar di hari Minggu, tanggal 1 Januari 3030 pada jam 00:00?",
+            "notes": "Ini seharusnya catatan",
             "action1": "",
             "action2": "",
             "type": "coachingRequest",
@@ -98,13 +98,18 @@
             "action1": "",
             "action2": "",
             "type": "coachingRejected",
-            "coaching": {},
+            "coaching": {
+                "id": 3,
+                "studentName": "Me",
+                "coachName": "A coach, of course",
+                "topic": "Something"
+            },
             "resign": {}
         },
         {
             "id": 6,
-            "title": "Coaching Request",
-            "body": "Hai seorang coach, saya manusia dari posisi pengangguran. Apakah anda bersedia untuk mengajar di hari Minggu, tanggal 1 Januari 3030 pada jam 00:00?",
+            "title": "Coaching Request: Sebuah Topic",
+            "body": "Hai seorang coach. Anda mendapat permintaan coaching sebagai berikut:",
             "notes": "Ini seharusnya catatan",
             "action1": "",
             "action2": "",
