@@ -36,28 +36,12 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
-            "type": "coachingRequest",
-            "coaching": {
-                "id": 1,
-                "studentName": "Me",
-                "coachName": "A coach, of course",
-                "topic": "Something"
-            },
-            "resign": {}
-        },
-        {
-            "id": 2,
-            "title": "Title",
-            "body": "body",
-            "notes": "a notes",
-            "action1": "",
-            "action2": "",
             "type": "default",
             "coaching": {},
             "resign": {}
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Title",
             "body": "body",
             "notes": "a notes",
@@ -75,6 +59,22 @@
             }
         },
         {
+            "id": 3,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "type": "coachingRequest",
+            "coaching": {
+                "id": 1,
+                "studentName": "Me",
+                "coachName": "A coach, of course",
+                "topic": "Something"
+            },
+            "resign": {}
+        },
+        {
             "id": 4,
             "title": "Title",
             "body": "body",
@@ -88,6 +88,28 @@
                 "coachName": "A coach, of course",
                 "topic": "Something"
             },
+            "resign": {}
+        },
+        {
+            "id": 5,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "type": "coachingRejected",
+            "coaching": {},
+            "resign": {}
+        },
+        {
+            "id": 6,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "type": "coachingInvitation",
+            "coaching": {},
             "resign": {}
         }
     ]
