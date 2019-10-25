@@ -36,7 +36,7 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
-            "type": "coachingInvite",
+            "type": "coachingRequest",
             "coaching": {
                 "id": 1,
                 "studentName": "Me",
@@ -73,6 +73,22 @@
                 "teamLeader": "Leader Name",
                 "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101"
             }
+        },
+        {
+            "id": 4,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "type": "coachingAccepted",
+            "coaching": {
+                "id": 2,
+                "studentName": "Me",
+                "coachName": "A coach, of course",
+                "topic": "Something"
+            },
+            "resign": {}
         }
     ]
 }
