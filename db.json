@@ -36,7 +36,7 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
-            "coachingData": {
+            "coaching": {
                 "id": 1,
                 "studentName": "Me",
                 "coachName": "A coach, of course",
@@ -57,7 +57,7 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
-            "coachingData": {},
+            "coaching": {},
             "resign": {}
         }
     ]
