@@ -36,19 +36,14 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
+            "type": "coachingInvite",
             "coaching": {
                 "id": 1,
                 "studentName": "Me",
                 "coachName": "A coach, of course",
                 "topic": "Something"
             },
-            "resign": {
-                "id": 1,
-                "name": "Name",
-                "position": "Position Name",
-                "outlet": "Outlet Name",
-                "teamLeader": "Leader Name"
-            }
+            "resign": {}
         },
         {
             "id": 2,
@@ -57,8 +52,26 @@
             "notes": "a notes",
             "action1": "",
             "action2": "",
+            "type": "default",
             "coaching": {},
             "resign": {}
+        },
+        {
+            "id": 3,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "type": "resign",
+            "coaching": {},
+            "resign": {
+                "id": 1,
+                "name": "Name",
+                "position": "Position Name",
+                "outlet": "Outlet Name",
+                "teamLeader": "Leader Name"
+            }
         }
     ]
 }
