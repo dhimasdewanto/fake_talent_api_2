@@ -27,5 +27,38 @@
             "points": 12,
             "duration": 120
         }
+    ],
+    "inboxes": [
+        {
+            "id": 1,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "coachingData": {
+                "id": 1,
+                "studentName": "Me",
+                "coachName": "A coach, of course",
+                "topic": "Something"
+            },
+            "resign": {
+                "id": 1,
+                "name": "Name",
+                "position": "Position Name",
+                "outlet": "Outlet Name",
+                "teamLeader": "Leader Name"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Title",
+            "body": "body",
+            "notes": "a notes",
+            "action1": "",
+            "action2": "",
+            "coachingData": {},
+            "resign": {}
+        }
     ]
 }
