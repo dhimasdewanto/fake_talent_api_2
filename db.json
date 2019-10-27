@@ -28,6 +28,26 @@
             "duration": 120
         }
     ],
+    "events": [
+        {
+            "id": 1,
+            "title": "Sebuah Event",
+            "source": "merdeka.com",
+            "location": "Jakarta"
+        },
+        {
+            "id": 2,
+            "title": "Sebuah Event Yang Sangat Panjang Sekali Sangat Sekali",
+            "source": "merdeka.com",
+            "location": "Bandung"
+        },
+        {
+            "id": 3,
+            "title": "Sebuah Event 3",
+            "source": "merdeka.com",
+            "location": "Surabaya"
+        }
+    ],
     "inboxes": [
         {
             "id": 1,
