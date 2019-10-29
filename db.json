@@ -33,19 +33,22 @@
             "id": 1,
             "title": "Sebuah Event",
             "source": "merdeka.com",
-            "location": "Jakarta"
+            "location": "Jakarta",
+            "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101"
         },
         {
             "id": 2,
             "title": "Sebuah Event Yang Sangat Panjang Sekali Sangat Sekali",
             "source": "merdeka.com",
-            "location": "Bandung"
+            "location": "Bandung",
+            "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101"
         },
         {
             "id": 3,
             "title": "Sebuah Event 3",
             "source": "merdeka.com",
-            "location": "Surabaya"
+            "location": "Surabaya",
+            "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101"
         }
     ],
     "inboxes": [
